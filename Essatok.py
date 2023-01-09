@@ -1,4 +1,3 @@
-#------------------[ LOGO-LAKNAT ]-----------------#
 def banner():
 	print(f'''\t{asu}
 AUTHOR  : KHOIRUL-XD WHATSAPP : 081215437036  •
